@@ -1,0 +1,728 @@
+{
+    "data": {
+        "influencer": {
+            "name": "Account for testing",
+            "username": "henrique.moreno.elias",
+            "provider": "instagram",
+            "profilePictureUrl": "/influencer-default.jpg",
+            "instagram": {
+                "id": "1",
+                "medias": [
+                    {
+                        "id": "18087201562046989",
+                        "data": [
+                            {
+                                "id": "18087201562046989/insights/engagement/lifetime",
+                                "name": "engagement",
+                                "title": "Engagement",
+                                "period": "lifetime",
+                                "values": [
+                                    {
+                                        "value": 2
+                                    }
+                                ],
+                                "description": "Total number of likes and comments on the media object"
+                            },
+                            {
+                                "id": "18087201562046989/insights/impressions/lifetime",
+                                "name": "impressions",
+                                "title": "Impressions",
+                                "period": "lifetime",
+                                "values": [
+                                    {
+                                        "value": 7
+                                    }
+                                ],
+                                "description": "Total number of times the media object has been seen"
+                            },
+                            {
+                                "id": "18087201562046989/insights/reach/lifetime",
+                                "name": "reach",
+                                "title": "Reach",
+                                "period": "lifetime",
+                                "values": [
+                                    {
+                                        "value": 5
+                                    }
+                                ],
+                                "description": "Total number of unique accounts that have seen the media object"
+                            }
+                        ],
+                        "ig_id": "2096029201748726762",
+                        "owner": {
+                            "id": "17841415438364012"
+                        },
+                        "caption": "#instafollow",
+                        "username": "henrique.moreno.elias",
+                        "media_url": "https://scontent.xx.fbcdn.net/v/t51.2885-15/65842143_2003188756452564_2349511672183695460_n.jpg?_nc_cat=106&_nc_eui2=AeEdZnegN9i-u3dJQDFjztnsWjt_hIChh7kAIjGi5FNfSAcQdCUirJfUonyBReVxDk5pLtgVXAlXok60mbEjEfeA&_nc_oc=AQmR4Y57Up5ubAgIg2lAgGDy1tC2Mzuw9tYBgxhY3CnPciVseMgqJLBZCn7FLvjbXNw&_nc_ht=scontent.xx&oh=3015d7601b114d4cf41ada9160453097&oe=5E34050D",
+                        "permalink": "https://www.instagram.com/p/B0Wl3QpFBPq/",
+                        "shortcode": "B0Wl3QpFBPq",
+                        "timestamp": "2019-07-25T20:22:53+0000",
+                        "like_count": 2,
+                        "media_type": "IMAGE",
+                        "comments_count": 0,
+                        "is_comment_enabled": true
+                    },
+                    {
+                        "id": "17903352007338525",
+                        "data": [
+                            {
+                                "id": "17903352007338525/insights/engagement/lifetime",
+                                "name": "engagement",
+                                "title": "Engagement",
+                                "period": "lifetime",
+                                "values": [
+                                    {
+                                        "value": 1
+                                    }
+                                ],
+                                "description": "Total number of likes and comments on the media object"
+                            },
+                            {
+                                "id": "17903352007338525/insights/impressions/lifetime",
+                                "name": "impressions",
+                                "title": "Impressions",
+                                "period": "lifetime",
+                                "values": [
+                                    {
+                                        "value": 6
+                                    }
+                                ],
+                                "description": "Total number of times the media object has been seen"
+                            },
+                            {
+                                "id": "17903352007338525/insights/reach/lifetime",
+                                "name": "reach",
+                                "title": "Reach",
+                                "period": "lifetime",
+                                "values": [
+                                    {
+                                        "value": 5
+                                    }
+                                ],
+                                "description": "Total number of unique accounts that have seen the media object"
+                            }
+                        ],
+                        "ig_id": "2096027981592169360",
+                        "owner": {
+                            "id": "17841415438364012"
+                        },
+                        "caption": "#panda #followers",
+                        "username": "henrique.moreno.elias",
+                        "media_url": "https://scontent.xx.fbcdn.net/v/t50.2886-16/68382115_488683845037908_2195370027633337930_n.mp4?_nc_cat=108&_nc_eui2=AeGdiHmDsjaOASlvkihfF4CgDk2s7dWlSZYCR07XLXA2Kzy9KFNpzNfvRZ1e3B2vKJjLydE05GRcV9F7_cZsgzCH&_nc_oc=AQm22qlu4813NKM7c9MZ38S0GAmvBX7XzNv_JbdZPlTxS7bgvPuNB_0z0N1BRwwzCs0&_nc_zt=28&_nc_ht=scontent.xx&oh=30ca0d6ffeeda0f3c02572a51fc5700e&oe=5E1E3A51",
+                        "permalink": "https://www.instagram.com/p/B0WllgSFIuQ/",
+                        "shortcode": "B0WllgSFIuQ",
+                        "timestamp": "2019-07-25T20:20:36+0000",
+                        "like_count": 1,
+                        "media_type": "VIDEO",
+                        "thumbnail_url": "https://scontent.xx.fbcdn.net/v/l/t51.2885-15/66457897_504975573645253_5076444249256666787_n.jpg?_nc_cat=103&_nc_eui2=AeEVLD-3d47rOzacl5HUXp26wJi5K1cClCCnWI6kV5Am4wp581sClPmBZeoq4zAzZgB7apJJ62ZVbro6XLLdUgDQ&_nc_oc=AQnBzPzf_suDITSgWqNDIYx1GNaef8tk_btz3BMytMPaJite1KPlP3aZsAG5AFVi7AE&_nc_ht=scontent.xx&oh=8e45a2716d34b86090554e958413b060&oe=5DF0383F",
+                        "comments_count": 0,
+                        "is_comment_enabled": true
+                    },
+                    {
+                        "id": "17966865886274029",
+                        "data": [
+                            {
+                                "id": "17966865886274029/insights/engagement/lifetime",
+                                "name": "engagement",
+                                "title": "Engagement",
+                                "period": "lifetime",
+                                "values": [
+                                    {
+                                        "value": 2
+                                    }
+                                ],
+                                "description": "Total number of likes and comments on the media object"
+                            },
+                            {
+                                "id": "17966865886274029/insights/impressions/lifetime",
+                                "name": "impressions",
+                                "title": "Impressions",
+                                "period": "lifetime",
+                                "values": [
+                                    {
+                                        "value": 8
+                                    }
+                                ],
+                                "description": "Total number of times the media object has been seen"
+                            },
+                            {
+                                "id": "17966865886274029/insights/reach/lifetime",
+                                "name": "reach",
+                                "title": "Reach",
+                                "period": "lifetime",
+                                "values": [
+                                    {
+                                        "value": 6
+                                    }
+                                ],
+                                "description": "Total number of unique accounts that have seen the media object"
+                            }
+                        ],
+                        "ig_id": "2073528611585356669",
+                        "owner": {
+                            "id": "17841415438364012"
+                        },
+                        "username": "henrique.moreno.elias",
+                        "media_url": "https://scontent.xx.fbcdn.net/v/t51.2885-15/64474544_2349521891986406_7697737755499445809_n.jpg?_nc_cat=102&_nc_eui2=AeGhkYdcBFj9nmJ_vUmIlrFpZtGYgJSdvysmv8rV_UXBe0CHdzF-yYCkfRCmgPGlwOomF_7VeeDGkksFi9uqVDhc&_nc_oc=AQkoypB6-EbvfSb9F8mDHY5lwaFM1e5owd9x7Mj6xL7gOHdln551ZGfkggVBd0Ru-B8&_nc_ht=scontent.xx&oh=106e77d4214c87c26977818c5b8483e8&oe=5E2724F1",
+                        "permalink": "https://www.instagram.com/p/BzGp0lFJ3N9/",
+                        "shortcode": "BzGp0lFJ3N9",
+                        "timestamp": "2019-06-24T19:18:14+0000",
+                        "like_count": 2,
+                        "media_type": "IMAGE",
+                        "comments_count": 0,
+                        "is_comment_enabled": true
+                    },
+                    {
+                        "id": "18010638946208291",
+                        "data": [
+                            {
+                                "id": "18010638946208291/insights/engagement/lifetime",
+                                "name": "engagement",
+                                "title": "Engagement",
+                                "period": "lifetime",
+                                "values": [
+                                    {
+                                        "value": 0
+                                    }
+                                ],
+                                "description": "Total number of likes and comments on the media object"
+                            },
+                            {
+                                "id": "18010638946208291/insights/impressions/lifetime",
+                                "name": "impressions",
+                                "title": "Impressions",
+                                "period": "lifetime",
+                                "values": [
+                                    {
+                                        "value": 7
+                                    }
+                                ],
+                                "description": "Total number of times the media object has been seen"
+                            },
+                            {
+                                "id": "18010638946208291/insights/reach/lifetime",
+                                "name": "reach",
+                                "title": "Reach",
+                                "period": "lifetime",
+                                "values": [
+                                    {
+                                        "value": 5
+                                    }
+                                ],
+                                "description": "Total number of unique accounts that have seen the media object"
+                            }
+                        ],
+                        "ig_id": "2073528399898835794",
+                        "owner": {
+                            "id": "17841415438364012"
+                        },
+                        "username": "henrique.moreno.elias",
+                        "media_url": "https://scontent.xx.fbcdn.net/v/t51.2885-15/64767737_2240270132891486_3115203148317453526_n.jpg?_nc_cat=103&_nc_eui2=AeGjPajRkYuwwFHPdXZiGzNASFDBjnmyP4kEnChcKnrhPzU8Getcvb3LkkIscBEj1N9_fqfKCJYRnZ8z3UGar-di&_nc_oc=AQndS_bPS2bxsYJLHYF2yvrdGaES8U2pq9CBrs6AQjlYnjXpQNjm3PvdqJNUP5dSKcc&_nc_ht=scontent.xx&oh=351e8cfb36b7b61662876120efbd780f&oe=5E2FEC04",
+                        "permalink": "https://www.instagram.com/p/BzGpxf7p3tS/",
+                        "shortcode": "BzGpxf7p3tS",
+                        "timestamp": "2019-06-24T19:17:49+0000",
+                        "like_count": 0,
+                        "media_type": "IMAGE",
+                        "comments_count": 0,
+                        "is_comment_enabled": true
+                    }
+                ],
+                "audience": {
+                    "data": [
+                        {
+                            "id": "17841415438364012/insights/audience_city/lifetime",
+                            "name": "audience_city",
+                            "title": "Audience City",
+                            "period": "lifetime",
+                            "values": [
+                                {
+                                    "value": {
+                                        "Belo Horizonte, Minas Gerais": 1,
+                                        "São Paulo, São Paulo (state)": 3
+                                    },
+                                    "end_time": "2019-10-05T07:00:00+0000"
+                                }
+                            ],
+                            "description": "The cities of this profile's followers"
+                        },
+                        {
+                            "id": "17841415438364012/insights/audience_country/lifetime",
+                            "name": "audience_country",
+                            "title": "Audience Country",
+                            "period": "lifetime",
+                            "values": [
+                                {
+                                    "value": {
+                                        "BR": 4
+                                    },
+                                    "end_time": "2019-10-05T07:00:00+0000"
+                                }
+                            ],
+                            "description": "The countries of this profile's followers"
+                        },
+                        {
+                            "id": "17841415438364012/insights/audience_gender_age/lifetime",
+                            "name": "audience_gender_age",
+                            "title": "Gender and Age",
+                            "period": "lifetime",
+                            "values": [
+                                {
+                                    "value": {
+                                        "F.65+": 1,
+                                        "F.35-44": 1,
+                                        "M.25-34": 1,
+                                        "M.35-44": 1
+                                    },
+                                    "end_time": "2019-10-05T07:00:00+0000"
+                                }
+                            ],
+                            "description": "The gender and age distribution of this profile's followers"
+                        },
+                        {
+                            "id": "17841415438364012/insights/audience_locale/lifetime",
+                            "name": "audience_locale",
+                            "title": "Location",
+                            "period": "lifetime",
+                            "values": [
+                                {
+                                    "value": {
+                                        "en_GB": 1,
+                                        "pt_BR": 3
+                                    },
+                                    "end_time": "2019-10-05T07:00:00+0000"
+                                }
+                            ],
+                            "description": "The locales by country codes of this profile's followers"
+                        }
+                    ]
+                },
+                "onlineFollowers": {
+                    "data": [
+                        {
+                            "id": "17841415438364012/insights/online_followers/lifetime",
+                            "name": "online_followers",
+                            "title": "Online Followers",
+                            "period": "lifetime",
+                            "values": [
+                                {
+                                    "value": {
+                                        "4": 1,
+                                        "8": 1,
+                                        "9": 1,
+                                        "10": 1,
+                                        "11": 1,
+                                        "12": 1,
+                                        "13": 1,
+                                        "14": 1,
+                                        "15": 1,
+                                        "16": 1,
+                                        "18": 1,
+                                        "19": 1,
+                                        "20": 1,
+                                        "21": 1,
+                                        "22": 1,
+                                        "23": 1
+                                    },
+                                    "end_time": "2019-09-28T07:00:00+0000"
+                                },
+                                {
+                                    "value": {
+                                        "0": 1,
+                                        "8": 1,
+                                        "9": 1,
+                                        "10": 1,
+                                        "11": 1,
+                                        "12": 1,
+                                        "13": 1,
+                                        "14": 1,
+                                        "16": 1,
+                                        "17": 1,
+                                        "18": 1,
+                                        "19": 2,
+                                        "20": 1,
+                                        "21": 1,
+                                        "22": 1
+                                    },
+                                    "end_time": "2019-09-29T07:00:00+0000"
+                                },
+                                {
+                                    "value": {
+                                        "0": 1,
+                                        "2": 1,
+                                        "3": 1,
+                                        "5": 2,
+                                        "6": 2,
+                                        "7": 2,
+                                        "8": 2,
+                                        "9": 2,
+                                        "10": 2,
+                                        "11": 2,
+                                        "12": 2,
+                                        "13": 2,
+                                        "14": 1,
+                                        "15": 1,
+                                        "16": 1,
+                                        "17": 1,
+                                        "18": 2,
+                                        "19": 1,
+                                        "21": 1,
+                                        "23": 1
+                                    },
+                                    "end_time": "2019-09-30T07:00:00+0000"
+                                },
+                                {
+                                    "value": {
+                                        "3": 1,
+                                        "4": 3,
+                                        "5": 1,
+                                        "6": 2,
+                                        "7": 3,
+                                        "8": 3,
+                                        "9": 2,
+                                        "10": 1,
+                                        "11": 2,
+                                        "12": 1,
+                                        "13": 2,
+                                        "14": 2,
+                                        "15": 2,
+                                        "16": 2,
+                                        "17": 2,
+                                        "18": 1,
+                                        "19": 1,
+                                        "20": 1
+                                    },
+                                    "end_time": "2019-10-01T07:00:00+0000"
+                                },
+                                {
+                                    "value": {
+                                        "2": 1,
+                                        "3": 2,
+                                        "4": 1,
+                                        "5": 1,
+                                        "6": 1,
+                                        "7": 2,
+                                        "8": 2,
+                                        "9": 1,
+                                        "10": 1,
+                                        "11": 2,
+                                        "12": 1,
+                                        "13": 1,
+                                        "14": 2,
+                                        "15": 3,
+                                        "16": 2,
+                                        "17": 1,
+                                        "18": 2,
+                                        "19": 1,
+                                        "20": 2,
+                                        "23": 1
+                                    },
+                                    "end_time": "2019-10-02T07:00:00+0000"
+                                },
+                                {
+                                    "value": {
+                                        "2": 1,
+                                        "3": 1,
+                                        "6": 2,
+                                        "7": 2,
+                                        "8": 2,
+                                        "9": 3,
+                                        "10": 2,
+                                        "11": 1,
+                                        "12": 1,
+                                        "13": 2,
+                                        "15": 1,
+                                        "16": 2,
+                                        "17": 2,
+                                        "18": 2,
+                                        "19": 1,
+                                        "20": 2,
+                                        "21": 1,
+                                        "23": 1
+                                    },
+                                    "end_time": "2019-10-03T07:00:00+0000"
+                                },
+                                {
+                                    "value": {},
+                                    "end_time": "2019-10-04T07:00:00+0000"
+                                }
+                            ],
+                            "description": "Total number of this profile's followers that were online during the specified period"
+                        }
+                    ],
+                    "paging": {
+                        "next": "https://graph.facebook.com/v3.3/17841415438364012/insights?access_token=EAAgi0lqIWDYBADXZB1iuoUckw7ubwkBJxV5XhLZBka5FnWF1fr7KtIuEF6e30SvLbVM3M0EUnb60UZACrZCY7ZAkRQ9HaRgWZCYZBlEzsmZCZCR8uTwn4ur7q19Bh0ZC3pUHKH7yimLDItzBiZAPA1kC4M0sPz6MqCTNe7eDKxwqXm0dgZDZD&since=1570244401&until=1570849201&metric=online_followers&period=lifetime",
+                        "previous": "https://graph.facebook.com/v3.3/17841415438364012/insights?access_token=EAAgi0lqIWDYBADXZB1iuoUckw7ubwkBJxV5XhLZBka5FnWF1fr7KtIuEF6e30SvLbVM3M0EUnb60UZACrZCY7ZAkRQ9HaRgWZCYZBlEzsmZCZCR8uTwn4ur7q19Bh0ZC3pUHKH7yimLDItzBiZAPA1kC4M0sPz6MqCTNe7eDKxwqXm0dgZDZD&since=1569034799&until=1569639599&metric=online_followers&period=lifetime"
+                    }
+                },
+                "otherInfos": {
+                    "data": [
+                        {
+                            "id": "17841415438364012/insights/email_contacts/day",
+                            "name": "email_contacts",
+                            "title": "Email Contacts",
+                            "period": "day",
+                            "values": [
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-09-28T07:00:00+0000"
+                                },
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-09-29T07:00:00+0000"
+                                },
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-09-30T07:00:00+0000"
+                                },
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-10-01T07:00:00+0000"
+                                },
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-10-02T07:00:00+0000"
+                                },
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-10-03T07:00:00+0000"
+                                },
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-10-04T07:00:00+0000"
+                                }
+                            ],
+                            "description": "Total number of taps on the email link in this profile"
+                        },
+                        {
+                            "id": "17841415438364012/insights/follower_count/day",
+                            "name": "follower_count",
+                            "title": "Follower Count",
+                            "period": "day",
+                            "values": [
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-09-28T07:00:00+0000"
+                                },
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-09-29T07:00:00+0000"
+                                },
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-09-30T07:00:00+0000"
+                                },
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-10-01T07:00:00+0000"
+                                },
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-10-02T07:00:00+0000"
+                                },
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-10-03T07:00:00+0000"
+                                },
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-10-04T07:00:00+0000"
+                                }
+                            ],
+                            "description": "Total number of unique accounts following this profile"
+                        },
+                        {
+                            "id": "17841415438364012/insights/impressions/day",
+                            "name": "impressions",
+                            "title": "Impressions",
+                            "period": "day",
+                            "values": [
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-09-28T07:00:00+0000"
+                                },
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-09-29T07:00:00+0000"
+                                },
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-09-30T07:00:00+0000"
+                                },
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-10-01T07:00:00+0000"
+                                },
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-10-02T07:00:00+0000"
+                                },
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-10-03T07:00:00+0000"
+                                },
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-10-04T07:00:00+0000"
+                                }
+                            ],
+                            "description": "The total number of times that the business account's media objects have been viewed."
+                        },
+                        {
+                            "id": "17841415438364012/insights/reach/day",
+                            "name": "reach",
+                            "title": "Reach",
+                            "period": "day",
+                            "values": [
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-09-28T07:00:00+0000"
+                                },
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-09-29T07:00:00+0000"
+                                },
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-09-30T07:00:00+0000"
+                                },
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-10-01T07:00:00+0000"
+                                },
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-10-02T07:00:00+0000"
+                                },
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-10-03T07:00:00+0000"
+                                },
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-10-04T07:00:00+0000"
+                                }
+                            ],
+                            "description": "The total number of times that the business account's media objects have been uniquely viewed."
+                        },
+                        {
+                            "id": "17841415438364012/insights/profile_views/day",
+                            "name": "profile_views",
+                            "title": "Profile Views",
+                            "period": "day",
+                            "values": [
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-09-28T07:00:00+0000"
+                                },
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-09-29T07:00:00+0000"
+                                },
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-09-30T07:00:00+0000"
+                                },
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-10-01T07:00:00+0000"
+                                },
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-10-02T07:00:00+0000"
+                                },
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-10-03T07:00:00+0000"
+                                },
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-10-04T07:00:00+0000"
+                                }
+                            ],
+                            "description": "The total number of users who have viewed the business account's profile within the specified period."
+                        },
+                        {
+                            "id": "17841415438364012/insights/text_message_clicks/day",
+                            "name": "text_message_clicks",
+                            "title": "Text Message Clicks",
+                            "period": "day",
+                            "values": [
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-09-28T07:00:00+0000"
+                                },
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-09-29T07:00:00+0000"
+                                },
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-09-30T07:00:00+0000"
+                                },
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-10-01T07:00:00+0000"
+                                },
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-10-02T07:00:00+0000"
+                                },
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-10-03T07:00:00+0000"
+                                },
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-10-04T07:00:00+0000"
+                                }
+                            ],
+                            "description": "Total number of taps on the text message link in this profile"
+                        },
+                        {
+                            "id": "17841415438364012/insights/website_clicks/day",
+                            "name": "website_clicks",
+                            "title": "Website Clicks",
+                            "period": "day",
+                            "values": [
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-09-28T07:00:00+0000"
+                                },
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-09-29T07:00:00+0000"
+                                },
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-09-30T07:00:00+0000"
+                                },
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-10-01T07:00:00+0000"
+                                },
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-10-02T07:00:00+0000"
+                                },
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-10-03T07:00:00+0000"
+                                },
+                                {
+                                    "value": 0,
+                                    "end_time": "2019-10-04T07:00:00+0000"
+                                }
+                            ],
+                            "description": "Total number of taps on the website link in this profile"
+                        }
+                    ],
+                    "paging": {
+                        "next": "https://graph.facebook.com/v3.3/17841415438364012/insights?access_token=EAAgi0lqIWDYBADXZB1iuoUckw7ubwkBJxV5XhLZBka5FnWF1fr7KtIuEF6e30SvLbVM3M0EUnb60UZACrZCY7ZAkRQ9HaRgWZCYZBlEzsmZCZCR8uTwn4ur7q19Bh0ZC3pUHKH7yimLDItzBiZAPA1kC4M0sPz6MqCTNe7eDKxwqXm0dgZDZD&since=1570244401&until=1570849201&metric=email_contacts%2Cfollower_count%2Cimpressions%2Creach%2Cprofile_views%2Creach%2Ctext_message_clicks%2Cwebsite_clicks&period=day",
+                        "previous": "https://graph.facebook.com/v3.3/17841415438364012/insights?access_token=EAAgi0lqIWDYBADXZB1iuoUckw7ubwkBJxV5XhLZBka5FnWF1fr7KtIuEF6e30SvLbVM3M0EUnb60UZACrZCY7ZAkRQ9HaRgWZCYZBlEzsmZCZCR8uTwn4ur7q19Bh0ZC3pUHKH7yimLDItzBiZAPA1kC4M0sPz6MqCTNe7eDKxwqXm0dgZDZD&since=1569034799&until=1569639599&metric=email_contacts%2Cfollower_count%2Cimpressions%2Creach%2Cprofile_views%2Creach%2Ctext_message_clicks%2Cwebsite_clicks&period=day"
+                    }
+                }
+            }
+        }
+    }
+}
